@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Firebase
+          Learn Firebase from branch
         </a>
       </header>
     </div>
